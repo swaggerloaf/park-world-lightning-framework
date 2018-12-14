@@ -1,0 +1,23 @@
+{
+  "name": "park-world-lightning-framework",
+  "version": "1.0.0",
+  "description": "Lightning Components Demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swaggerloaf/park-world-lightning-framework.git"
+  },
+  "keywords": [
+    "apex",
+    "lightning"
+  ],
+  "author": "swaggerloaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swaggerloaf/park-world-lightning-framework/issues"
+  },
+  "homepage": "https://github.com/swaggerloaf/park-world-lightning-framework#readme"
+}
