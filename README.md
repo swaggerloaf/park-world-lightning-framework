@@ -1,5 +1,27 @@
 # park-world-lightning-framework
 
+<code>sfdx plugins --core</code>
+
+<code>SFDX: Create file with manifest</code>
+  
+<code>sfdx force:auth:web:login -s</code>
+    
+<code>sfdx force:source:deploy -x manifest/package.xml</code>
+
+<code>sfdx force:source:retrieve -x manifest/package.xml</code>
+
+<code>npm init</code>
+
+<code>"devDependencies": {
+    "@salesforce-ux/design-system":"2.7.5"
+  }
+</code>
+
+<code>sfdx force:source:delete -p force-app/main/default/aura</code>
+
+
+
+
 <code>
 var items = [
       {name: 1, label: 'Henry Wu', expanded: true, items: []},
