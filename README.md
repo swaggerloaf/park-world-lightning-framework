@@ -14,10 +14,8 @@ var items = [
     ];
  </code>
  
- <code>
     <aura:component implements="flexipage:availableForAllPageTypes">
       <aura:handler name="init" value="{!this}" action="{!c.init}" />
         <aura:attribute name="items" type="Object" access="PRIVATE"/>
         <lightning:tree items="{! v.items }" header="Scientists"/>
     </aura:component>
-</code>
