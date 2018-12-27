@@ -1,0 +1,3 @@
+({
+  myAction: (component, event, helper) => {}
+});
