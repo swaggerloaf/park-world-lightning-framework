@@ -14,6 +14,12 @@
     "apex",
     "lightning"
   ],
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "3.2.2",
+    "@salesforce-ux/design-system":"2.7.5",
+    "typescript-tslint-plugin":"0.2.1"
+  },
   "author": "swaggerloaf",
   "license": "MIT",
   "bugs": {

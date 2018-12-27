@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+      "module": "commonJS",
+      "target": "es5",
+      "lib": ["es5", "es2015.promise", "es2015.collection", "es2015.iterable", "es2015.core"],
+      "allowJs": false,
+      "outDir":
+        "force-app",
+      "rootDir": "app"
+  },
+  "include": [
+      "app/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
