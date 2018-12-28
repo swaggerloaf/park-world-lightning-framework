@@ -20,7 +20,12 @@
 <code>sfdx force:source:delete -p force-app/main/default/aura</code>
 
 
-
+<code>
+  "files.associations": {
+        "*.page": "html"
+    }
+  </code>
+  
 
 <code>
 var items = [
