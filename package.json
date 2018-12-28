@@ -18,7 +18,9 @@
   "devDependencies": {
     "typescript": "3.2.2",
     "@salesforce-ux/design-system":"2.7.5",
-    "typescript-tslint-plugin":"0.2.1"
+    "@salesforce/eslint-config-lwc":"0.3.0",
+    "typescript-tslint-plugin":"0.2.1",
+    "prettier":"1.15.3"
   },
   "author": "swaggerloaf",
   "license": "MIT",
